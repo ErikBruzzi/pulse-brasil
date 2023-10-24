@@ -60,3 +60,25 @@ header div h1 {
     padding: 8px 23px;
     border-radius: 50%;
 }
+
+/* carrosel 
+  
+.carrossel {
+    height: 200%;
+    width: 200%;
+    overflow: hidden;
+    position: relative;
+}
+  
+.container {
+    display: flex;
+    transition: 0.7s ease-in-out;
+    transform: translateX(0);
+}
+
+.container img {
+    height: 100%;
+    width: 100%;
+}
+  
+/* carrosel */

@@ -40,3 +40,4 @@
     </section><!--top-->
 </body>
 </html>
+<script src="<?php echo get_theme_root_uri(); ?>/pulse-brasil/script.js"></script>
