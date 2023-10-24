@@ -7,6 +7,8 @@
       </div><!--imagens-carrossel-->
 </section><!--carrossel-->
 
+<?php the_content(); ?>
+
 <section class="produtos">
     <h1>Pordutos</h1>
     <div class="cor-opcoes-produtos"><p>Cor</p></div>
