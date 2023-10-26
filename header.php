@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pulse Brasil</title>
-    <link rel="stylesheet" href="<?php echo get_theme_root_uri(); ?>/pulse-brasil/style.css">   
+    <link rel="stylesheet" href="<?php echo get_theme_root_uri(); ?>/pulse-brasil/style.css">
+    <script src="<?php echo get_theme_root_uri(); ?>/pulse-brasil/script.js"></script>   
     <?php wp_head(); ?>
 </head>
 <body>
@@ -40,4 +41,3 @@
     </section><!--top-->
 </body>
 </html>
-<script src="<?php echo get_theme_root_uri(); ?>/pulse-brasil/script.js"></script>
